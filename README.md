@@ -23,8 +23,8 @@ To **identify and visualize pathogenic mutations** in the CFTR gene, map them to
  📊 Interactive Dashboard View
 ![Power BI Dashboard Screenshot](./preview.png)
 
- 🔴 Chimera-Based Mutation Render (Residue F508)
-![Chimera Mutation Example](./chimera-images/F508.png)
+ 🔴 Chimera-Based Mutation Render 
+![Chimera Mutation Example](https://github.com/Deepikab-7/CFTR-Clinical-Mutation-Analysis/tree/main/Chimera%20Images)
 
 ## **🚀 How to Run the Project**
 
